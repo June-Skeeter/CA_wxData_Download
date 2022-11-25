@@ -6,7 +6,7 @@ Data were downloaded and processed using the code in "BC_Precip_and_Temperature_
 
 Below is a map of the stations included
 
-![StationMap.png]
+![](StationMap.png)
 
 <!-- 
 <div style="overflow: hidden;
